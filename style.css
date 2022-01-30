@@ -1,12 +1,20 @@
-.header{
+.headersection{
+    width: 1250px;
+    margin-left: 100px;
+}
+
+.headerh1{
     background-color: #33ff7e;
     text-align: center;
     color: white;
-    margin:-22px 40px;
+    margin-top:-10px;
+
 }
 
 .photo{
-    margin:0px 40px;
-    width: 500px;
+    margin-top:-21px;
+    width: 1250px;
+    height:500px;
+    margin-left: 100px;
 }
 
